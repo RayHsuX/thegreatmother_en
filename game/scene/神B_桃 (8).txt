@@ -1,0 +1,8 @@
+setFigAni:moveBaF 2s -center;
+changeFigure:白桃.png -next;
+:You picked the largest and freshest peach, held it in your hand and played with it. It looked surprisingly like the shape of a butt.;
+changeFigure:none -next;
+Congratulations! You got "The Power of Nature x1";
+changeBg:桃8.jpg -next
+:Do you want to pick more peaches?;
+choose:Pick a peach again:神B_桃 (9).txt|Do not pick, go straight through the peach forest:神BLGBT.txt;

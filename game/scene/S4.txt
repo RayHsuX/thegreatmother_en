@@ -1,0 +1,7 @@
+changeBg:黑底.png -next
+:You tries to understand the hexagrams. 
+After a burst of golden light, you feel everything around you disappeared, the sound is gone, the trigram is gone, and the tower and the ground are gone. You look down into an endless abyss.;
+:You are caught off guard downward, falling and failing, weightlessness swept through the body. -风声.mp3;
+:Until heavy bang coming from the depths, the world fell into endless darkness. -坠落.mp3;
+:You fell into the vortex of time, from then on into a long sleep.;
+changeScene:S5.txt;

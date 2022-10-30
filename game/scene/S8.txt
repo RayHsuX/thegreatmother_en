@@ -1,0 +1,10 @@
+bgm:bgmm/神像.mp3;
+setBgAni:centerIn 5s;
+changeBg:塔底2.png -next
+？？？:"Confused mortal, let me answer your questions. " -神A1 双面人.mp3;
+setBgAni:moveBaF 3s;
+changeBg:三神像.jpg -next
+:An inhuman voice comes from behind you, and you look back and see three huge statues of gods.
+You walk over to them, and look up. The gods’ solemn faces are staring at all living beings. Compare to them, you are smaller than the ants.
+Is that one of the divine denizens you're talking to?;
+changeScene:S8-1.txt;

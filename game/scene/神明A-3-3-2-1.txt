@@ -1,0 +1,7 @@
+changeBg:圆满神背景.jpg -next
+:At that moment, you come to another statue of god;
+setFigAni:leftIn 2s -left;
+changeFigure:圆满之神.png -left;
+God of Consummation:“How will you consume your life? I can give you the power of completeness, but you must give me all that you have" -圆满之神选项.mp3;
+changeFigure:none -left -next;
+choose:Accept the god' condition and  receive the power of  completeness:答应双神.txt|Refuse, you do not want to give up other things:分支：选择神明A.txt;

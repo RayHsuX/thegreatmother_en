@@ -1,0 +1,10 @@
+setFigAni:moveBaF 2s -center;
+changeFigure:白桃.png -next;
+:You picked the largest and freshest peach, held it in your hand and played with it. It looked surprisingly like the shape of a butt.;
+changeFigure:none -next;
+Congratulations! You got "The Power of Nature x1";
+changeBg:桃9.jpg -next
+:You've picked all the peaches on the tree;
+:Congratulations! You got the useless title "Idler Status"
+You're really idle!;
+changeScene:神C顺性别.txt;

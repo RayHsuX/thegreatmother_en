@@ -1,0 +1,13 @@
+playVideo:《鸟道》Wandering_林璟.mp4;
+setBgAni:bg_softIn 3s;
+changeBg:竹林2.png -next
+:Passing through the peach forest, you come to a lush bamboo forest with straight bamboo trunks growing upward.
+The breeze blows, the branches and leaves sway, and light spots spill onto the path.;
+setBgAni:moveBaF 3s;
+changeBg:竹林.png -next
+:You are enjoying a rare moment of leisure, when suddenly a shiny object in the distance attracts your attention.;
+setBgAni:bg_down 2s;
+changeBg:石中竹（光）.jpg
+:You walk forward curiously and see that it is a bamboo flute stuck in a stone crevice, flowing with light and crystal, not knowing what material it is carved from.
+;
+choose:What kind of treasure is this waiting for me? Walk up and try to pull it out:神B顺性别拔竹子.txt|Curiosity killed the cat. Do not touch it, just walk away:神B顺性别_jb山.txt;

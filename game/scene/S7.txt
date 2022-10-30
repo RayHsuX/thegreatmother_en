@@ -1,0 +1,7 @@
+setBgAni:bg_down 3s;
+changeBg:石砖巨树1_HD.png -next
+:Suddenly, the lotus stops in the center.
+You are able to look at this huge floor. The atrium of which was an old tree with coiled roots, the roots of which were deeply implanted in the stone bricks of the tower and symbiotic with it.
+The luxuriant branches covered the whole floor, and it was the branches of which stuck the lotus roots and made you stay here.;
+Genealogy tree: “Child, please stop for a moment, do you want to listen to my story about life?” -族谱树1.mp3;
+choose:Please tell me:S7-1.txt|No:S7-2.txt;

@@ -1,0 +1,1 @@
+[{"type":"bg","bg":"石中竹.jpg","noBg":false,"next":true},{"type":"dialog","speaker":"大地","content":"灵笛的使者，我将为你指引接下来的方向。你往远方眺望，那里的山峰就是你下个要去的地方。让树枝化作你的剑，用勇气劈开那座山峰吧！","vocal":"灵笛提示.ogg","ignoreSpeaker":false},{"type":"changeScene","newScene":"神BLGBT_jb山.txt"}]

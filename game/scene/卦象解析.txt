@@ -1,0 +1,5 @@
+playVideo:抽取卦象.mp4;
+changeBg:生卦.jpg -next
+:The shape of the character “Tun” in the oracle bone script resembles the shape of a plant seed sprouting and breaking out of the earth. -抽卦.mp3;
+:It is a symbol of the birth and prosperous life.;
+changeScene:S4.txt;

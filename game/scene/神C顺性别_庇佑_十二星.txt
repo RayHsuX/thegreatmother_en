@@ -1,0 +1,20 @@
+changeBg:黑底.png
+:Congratulations! You got “Twelve Stars”. -获得.mp3;
+:*The jewel in the crown of the Virgin's head, representing the radiance of the twelve virtues (Meditations 12:1);
+:You have found the Gate of the Great Mother.
+Soon you will be leaving Mondo for a world that doesn't belong here.
+You will not take the memories of Mondo with you, but every choice you make will affect your life in that world.
+You have been blessed by"Drunkenness""The Blessing of Oedipus""Twelve Stars"
+Are you ready for the adventure?;
+playVideo:存在于阴道里的自由.mp4;
+changeBg:粘连II.jpg -next
+:...;
+playVideo:出生.mp4;
+changeBg:婴儿出生1.png -next
+:You were born.;
+:You are a ‘girl’. You don't care what your destiny is as a woman, and you don't feel the need to resist.
+Live and let live, die and let die, that's the way the world is.
+The meaning of existence is very vague to you and you don't really want to find out what it is.
+You accept with openness all the gifts that fate gives you, whether it is good or bad.;
+playVideo:游戏谢幕.mp4;
+end;

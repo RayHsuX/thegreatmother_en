@@ -1,0 +1,8 @@
+changeBg:黑底.png -next
+:Suddenly, a hint of unease suddenly rose in the heart.;
+setBgAni:centerIn 2s;
+changeBg:死后场景1.png -next
+Divine Condemnation: Greedy mortal, how dare you go the way of two gods! You will pay the price for greed! -选择双神 空灵.mp3;
+:You have received the wrath of god! -惊雷.mp3;
+playVideo:gameover.mp4;
+end;

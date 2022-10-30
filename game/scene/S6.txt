@@ -1,0 +1,16 @@
+changeBg:莲花1_HD.png -next
+:Suddenly music starts to play;
+bgm:bgmm/莲花族谱.mp3;
+setBgAni:moveBaF 3s;
+changeBg:莲花2_HD.png -next
+:With the strange music, the lotus beneath you grows up, and the roots grow fast and lift you up steadily, 
+through the hollow in the center of the tower, without stopping. The scene in front of you flies past… ;
+setBgAni:centerIn 3s;
+changeBg:大地河流星月夜1_HD.png -next
+:you see the earth, the winding river, the dark clouds, the stars and moon at night.;
+setBgAni:centerIn 5s;
+changeBg:大地河流星月夜2_HD.png -next
+:and then the sun, the clouds, the trees, the majestic mountains, the earth,
+and in the blurred remnants you seem to see the outline of the door, and you want to grab but you are still rising ———— rising ————
+You don't know where the top of the tower really is, maybe there's no end.;
+changeScene:S7.txt;

@@ -1,0 +1,18 @@
+setBgAni:bg_down 3s;
+changeBg:石砖巨树2_HD.png -next
+Genealogy tree: “I am the genealogy tree of this world, and when every time a new life is born, I grow a new branch. -族谱树2.mp3;
+Likewise, as each life passes away, that branch withers. -族谱树3.mp3;
+When I was a seed or a sapling, I was rooted in the tower. -族谱树4.mp3;
+I don't know exactly which floor level I was on, but I worked hard to root and grow for so long that I couldn't even reach the top of the tower in the forgetfulness of time. -族谱树5.mp3;
+I wonder if humans or gods seeded me? -族谱树6.mp3;
+During the long development of mankind, people gradually blurred the origin of life, and began to have the distinction of countries, nations, groups… -族谱树7.mp3;
+This floor records the genealogy of this world. -族谱树8.mp3;
+If you want to know where you came from? Where are you going? -族谱树9.mp3;
+Just keep forward, don't look back, don't linger. -族谱树10.mp3;
+Go to the floor which is flush with the earth, and they will guide you." -族谱树11.mp3;
+setBgAni:moveBaF 2s;
+:The genealogy tree moves its branches, releases the lotus, and stops its talking.;
+:So you begin to ascend again, and the spiral passage gives the illusion that it is downward, as if you are back in the well. 
+After a long non-stop upward journey, you finally reach the ground level of the tower, which has a huge open door to the outside world.
+Outside is a world of light. You are drawn through, but there is a transparent barrier in front of the door to block your steps out.;
+changeScene:S8.txt;

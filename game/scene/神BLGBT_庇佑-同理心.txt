@@ -1,0 +1,16 @@
+:你获得"Empathy" -获得.mp3;
+The mists are thicker and look like the smoke of something burning.;
+changeFigure:none -next;
+setBgAni:centerIn 5s;
+changeBg:焦虑的身体.JPG
+changeBg:焦虑的身体2.jpg
+changeBg:焦虑的身体1.jpg
+setBgAni:centerIn 3s;
+changeBg:湖面起雾1.png -next
+:The mists get thicker and you can barely see a little further down the river.
+Anxious, panic and all sorts of negative emotions come over you. You feel like you are this lonely canoe, not knowing where you are going to drift.;
+Suddenly, a light pierces through the thick clouds and you seem to have found a lifeline.;
+playVideo:圣母启示录.mp4;
+setBgAni:centerIn 5s;
+changeBg:母与子1_00.jpg -next
+choose:O Holy, Serene Mother of God, save me ……:神BLGBT_庇佑_同理心_十二星.txt|Not accepting the call:神BLGBT_庇佑_同理心_勇敢者.txt;

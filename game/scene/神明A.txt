@@ -1,0 +1,7 @@
+setBgAni:upIn 3s;
+changeBg:繁衍神背景.jpg -next
+setFigAni:bg_down 2s -left;
+changeFigure:繁衍之神.png -left;
+God of Reproduction:"Come to me and accept what your heart desires. Newborn soul, how will you consume your life? I may grant you the power of reproduction, but you will be driven by me for all eternity." -繁殖之神选项.mp3;
+changeFigure:none -left -next;
+choose:Accept the god' condition and gain the power of reproduction:神明A-1.txt|Refuse, reproduction of future generations is not what you want:神明A-2.txt|You need to take more time to consider:神明A-3.txt;

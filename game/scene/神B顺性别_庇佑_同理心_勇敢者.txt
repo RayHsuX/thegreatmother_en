@@ -1,0 +1,24 @@
+changeBg:黑底.png
+:As you are about to accept this divine calling, your mind suddenly flashes back to what you have seen along the way, the anxieties, the pain, the fears, the frustrations are so real that you are constantly reminded that the only one who can redeem you is yourself.;
+:Congratulations! You got "Heart of the Brave". -获得.mp3;
+playVideo:玄牝同体.mp4;
+setBgAni:centerIn 2s;
+changeBg:玄牝之门.jpg -next
+:You have found the Gate of the Great Mother.
+Soon you will be leaving Mondo for a world that doesn't belong here.
+You will not take the memories of Mondo with you, but every choice you make will affect your life in that world.
+You have been blessed by"Superman""The Blessing of Oedipus""Empathy""Heart of the Brave"
+Are you ready for the adventure?;
+playVideo:存在于阴道里的自由.mp4;
+changeBg:粘连II.jpg -next
+:...;
+playVideo:出生.mp4;
+changeBg:婴儿出生1.png -next
+:You were born.;
+:You will spend the rest of your life breaking through the shackles of gender and all chains, fighting to face up to your inner values and meanings, just to fulfil the promise you have made to yourself.
+You are the perfect combination of gentle, tolerant, courageous and resolute traits, achieving a complete and harmonious idealization of the personality.
+"Finding the significant other" is not a must for you.
+You can have a partner or not, this is the icing on the cake for you. You are a complete self-consistent circle.;
+playVideo:游戏谢幕.mp4;
+end;
+

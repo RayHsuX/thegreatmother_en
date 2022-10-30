@@ -1,0 +1,61 @@
+:This condescending voice makes you very uncomfortable. You take a few steps forward and see a broken branch on the ground. You pick it up and hold it in your hand.;
+:And while it may not help, you feel a little more at ease.;
+:A huge boulder suddenly falls from the mountain and you have nowhere to run. Are you resigned to the fact that it's over?;
+:You feel the branch in your hand transform into a sword, and your resentment is turned into strength. You unconsciously thrust your sword into the boulder.;
+:The boulder is not as hard as it looks, when your blade touches the boulder, it seems like a punctured ball, which has just been aggressive, but has now been deflated and "collapsed" to the ground.;
+setBgAni:rightIn 3s;
+changeBg:只缘身在此山中3.png -next
+Your hands are still shaking, but it's not from the collision of forces, it's that you're so nervous that you can't believe you're unharmed.;
+:Congratulations! You got "The Blessing of Oedipus" -获得.mp3;
+setBgAni:centerIn 3s;
+changeBg:旷野草地3.png -next
+bgm:bgmm/草地.mp3;
+:A light shines in at the end of the mountain path, you slowly drag your exhausted body towards light for a while, at last the view opens up.;
+:A gentle breeze brings the scent of grass. When you see the vast wilderness before you, for the first time you feel how precious an experience it is to be bathed in bright sunlight.;
+:You're thirsty.;
+changeBg:湖面起雾2.png -next
+bgm:bgmm/湖.mp3;
+:There is a river running through the wilderness. You walk over to it and drink the clear water until your thirst is all gone.
+You lie contentedly on the grass by the river, the sound of the water rippling is heavenly music for you.;
+:You fall into a deep sleep…
+;
+setBgAni:centerIn 5s;
+changeBg:与现实有关的梦 (1).jpg -next
+:......;
+changeBg:与现实有关的梦 (2).jpg
+changeBg:与现实有关的梦 (3).jpg
+changeBg:与现实有关的梦 (4).jpg
+changeBg:湖边草地小船2.png -next
+:You have a vague dream, but you can't remember what you dreamt about.;
+:At that moment, you notice that a canoe appears on the river.
+You feel a strong curiosity and subconsciously get into the canoe.;
+setBgAni:rightIn 3s;
+changeBg:永恒漂流1.png -next
+As if it had a spirit, the canoe moved on its own.
+The mountains on the far side of the river fade away into your view, leaving only the great river with no end in sight.;
+You:"Where is it taking me?";
+playVideo:也.mp4;
+changeBg:永恒漂流2.png -next
+:You got "Fable" -获得.mp3;
+setBgAni:bg_down 3s;
+changeBg:湖面起雾1.png -next
+:The river is gradually fogging up. Some images loom out of the mist.;
+:You rub your eyes, trying to see better…;
+setFigAni:centerIn 5s -center;
+changeFigure:白诗齐 女人不是天生.png;
+choose:You don't understand what these images are about, but you feel sad:神B顺性别_庇佑_同理心.txt|The person on that image looks a bit funny:;
+The mists are thicker and look like the smoke of something burning.;
+changeFigure:none -next;
+setBgAni:centerIn 5s;
+changeBg:焦虑的身体.JPG
+changeBg:焦虑的身体2.jpg
+changeBg:焦虑的身体1.jpg
+setBgAni:centerIn 3s;
+changeBg:湖面起雾1.png -next
+:The mists get thicker and you can barely see a little further down the river.
+Anxious, panic and all sorts of negative emotions come over you. You feel like you are this lonely canoe, not knowing where you are going to drift.;
+Suddenly, a light pierces through the thick clouds and you seem to have found a lifeline.;
+playVideo:圣母启示录.mp4;
+setBgAni:centerIn 5s;
+changeBg:母与子1_00.jpg -next
+choose:O Holy, Serene Mother of God, save me ……:神B顺性别_庇佑_十二星.txt|Not accepting the call:神B顺性别_庇佑_勇敢者.txt;

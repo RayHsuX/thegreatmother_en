@@ -1,0 +1,3 @@
+Game_name:玄牝之门;
+Title_bgm:looperman-l-3562905-0301447-sad-guitar-by-pete-viibes.wav;
+Title_img:xpzm1.gif;

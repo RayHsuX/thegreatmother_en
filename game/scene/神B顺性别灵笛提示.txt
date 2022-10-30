@@ -1,0 +1,4 @@
+changeBg:石中竹.jpg -next
+setFigAni:shake 0.5s -center;
+The Earth: "Messenger of the divine flute, I will guide you to the next direction. You look into the distance, and the mountain there is the next place you will go. Let the branch become your sword and cleave that mountain peak with courage!" -灵笛提示.mp3;
+changeScene:神B顺性别_jb山.txt;

@@ -1,0 +1,10 @@
+changeBg:黑底.png -next
+:As you are about to accept this divine calling, your mind suddenly flashes back to what you have seen along the way, the anxieties, the pain, the fears, the frustrations are so real that you are constantly reminded that the only one who can redeem you is yourself.;
+:Congratulations! You got "Heart of the Brave". -获得.mp3;
+setBgAni:centerIn 2s;
+changeBg:永恒漂流1.png -next
+:You have not found the Gate of the Great Mother.;
+:Maybe it's because you don't want to leave Mondo, or maybe you're too tired.;
+:All in all, you fall asleep in the canoe which carries you downstream forever, not knowing where it will end up...;
+playVideo:游戏谢幕.mp4;
+end;

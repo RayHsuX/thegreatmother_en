@@ -1,0 +1,4 @@
+bgm:bgmm/竹林.mp3;
+changeBg:石中竹.jpg -next
+:You make every effort to pluck up the flute and go away disappointed.;
+changeScene:神A无门_jb山.txt;

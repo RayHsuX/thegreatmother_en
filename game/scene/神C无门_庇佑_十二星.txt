@@ -1,0 +1,10 @@
+changeBg:黑底.png -next
+:Congratulations! You got “Twelve Stars”. -获得.mp3;
+:*The jewel in the crown of the Virgin's head, representing the radiance of the twelve virtues (Meditations 12:1);
+setBgAni:centerIn 2s;
+changeBg:永恒漂流1.png -next
+:You have not found the Gate of the Great Mother.;
+:Maybe it's because you don't want to leave Mondo, or maybe you're too tired.;
+:All in all, you fall asleep in the canoe which carries you downstream forever, not knowing where it will end up...;
+playVideo:游戏谢幕.mp4;
+end;

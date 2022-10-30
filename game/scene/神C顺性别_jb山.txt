@@ -1,0 +1,21 @@
+bgm:大地萬丈.mp3;
+setBgAni:bg_down 5s;
+changeBg:只缘身在此山中2.png -next
+:After passing through the woods, you suffer a dizzy spell and then lose consciousness.
+When you open your eyes again, you find yourself in a strange mountain path.;
+:There's a weird atmosphere all around, the dull and gloomy light, the nasty smell in the air makes you sick.
+You look around, desperately trying to recall what it smells like, but you can't remember anything.
+There are hardly any flowers or trees here, the mountain was bare and full of broken rocks compared to the woods we came from before.
+But you decide not to think about it, it's more important to get out of this shithole.;
+setBgAni:rightIn 5s;
+changeBg:只缘身在此山中.png -next
+:At this point, a deep voice rang out.;
+？？？:「你，﻿迷途的羔羊，﻿在找走出这座山的路吗”？」 -山1.mp3;
+You: "Who is it? Who's talking?";
+:You can't find the source of the voice, it seems so close to you, and so far away.
+It was as if the mountain was speaking.;
+Mountain:“Are thee, lost lamb, looking for a way out of this mountain?” -山2.mp3;
+:You feel a hint of anger in the voice, and you are a little frightened.
+﻿You don't know how you've offended Him, but you don't like being called a lamb any more.;
+:For now, I prefer to;
+choose:Keep smiling:神C顺性别_公平.txt|Summon the courage:神C顺性别_庇佑.txt|It's always a good idea to be careful:神C顺性别_无妄之灾.txt;

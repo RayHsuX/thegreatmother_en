@@ -1,0 +1,11 @@
+bgm:bgmm/草地.mp3;
+setBgAni:rightIn 3s;
+changeBg:桃树林草地1_HD.png -next
+:You finally walked out. The sunshine sprinkled in front of you, and a soft wind breezes on your face.  You took a deep breath, leaving all your previous fears behind.;
+:The natural fragrance of peaches and grass filled your nostrils as you walked into the woods.;
+setBgAni:moveBaF 3s;
+changeBg:warmtrees白桃.gif
+:Juicy peaches hanging on branches, you can pick one easily.;
+setBgAni:centerIn 3s;
+changeBg:桃满.jpg
+choose:Pick a peach:神A_桃1.txt|Do not pick, go straight through the peach forest:神A无门.txt;

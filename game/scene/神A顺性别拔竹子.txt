@@ -1,0 +1,7 @@
+bgm:bgmm/竹林.mp3;
+changeBg:石中竹.jpg -next
+setFigAni:upIn 2s -center;
+changeFigure:灵笛.png -next;
+:Congratulations on pulling out the flute, it's not for blowing! Please put the end of the flute close to the ground and listen to the sound of the earth!;
+changeFigure:none;
+choose:Use the flute to communicate with the earth:神A顺性别灵笛提示.txt|No, just walk through the bamboo forest:神A顺性别_jb山.txt;

@@ -1,0 +1,7 @@
+setBgAni:bg_down 3s;
+changeBg:死后场景3.png -next
+:You have refused the bestow of three gods;
+Reject all three gods:Bold mortal, How dare you to disobey all gods! You will pay the price for arrogance! -三神.mp3;
+:You have received the wrath of god! -惊雷.mp3;
+playVideo:gameover.mp4;
+end;

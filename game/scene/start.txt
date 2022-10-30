@@ -1,0 +1,32 @@
+playVideo:世芥树开场.mp4;
+playVideo:xpzm.mp4;
+playVideo:开场作品1.mp4;
+bgm:bgmm/塔1.mp3;
+:Welcome to Mondo, an otherworldly utopia where you will experience a mysterious journey. -开场1.mp3;
+:The citizens of Mondo are making a routine gathering, each speaking a different language, making a pilgrimage to the central tower. -开场2.mp3;
+setBgAni:bg_down 2s ;
+changeBg:巴别塔1.png -next
+:The tower, which connects the sky and the ground, has no end, and is You need to take more time to considered by the Mondo people as the pillar of heaven and earth. -开场3.mp3;
+:It is said that the top of the tower carries the power of life and destruction at the same time, so there were many people who tried to climb to the top of the tower -开场4.mp3;
+:with desire, devotion, hope, sorrow, and joy, but none of them returned to the ground. -开场5.mp3;
+:In the darkness of the night, there are glittering flashes in the tower, and the old man said that it is the wandering souls who continue to climb as they were alive. -开场6.mp3;
+:The tower also has the power of communication. The citizens of the world living here can only understand each other's language if they walk into the tower. -开场7.mp3;
+setBgAni:centerIn 5s;
+changeBg:塔顶.png -next
+bgm:none;
+bgm:bgmm/洞1.mp3;
+Unknown voice: "Welcome to the top of the tower, as you wish, you will learn the truth about this world.” -未知的声音1.mp3;
+You: "Who are you?";
+Unknown voice: "We are an ancient race called Mondo, is also the name for the world and me.  -未知的声音2.mp3;
+We were born at the same time as the world. Everyone here is the same as you. -未知的声音3.mp3;
+We have no father and no mother, the lotus at the bottom of the well is where we were born, and the new-borns naturally master a language -未知的声音4.mp3;
+but unfortunately, all the people here speak a different language. Once they step out of this tower, they will not be able to communicate with each other. -未知的声音5.mp3;
+So I stay here and become a vessel of communication. I hear everyone's voice, all of them, -未知的声音6.mp3;
+and those voices come to me like huge waves. I absorb them, and then turn them into a trickle and relay them out. The world finally is united.  -未知的声音7.mp3;
+But soon, the problem happens again. People here are born without gender. The gender is divided during adulthood.  -未知的声音8.mp3;
+Different genders began to speak different languages, and my ability also degraded. -未知的声音9.mp3;
+You: "So am I  from this tribe?;
+Unknown voice: "Yes, but no one has ever reached the top of the tower in a thousand years. Maybe you can bridge our gap. First you have to find yourself." -未知的声音10.mp3;
+You: "What? Find myself?";
+Unknown Voice: "Yes, find yourself. I am divining all the time. The birth, aging, sickness, and death that occur in this world are all manifestations of the trigrams. All things are in the change of these 64 trigrams. Let’s draw a hexagrams for yourself.” -未知的声音11.mp3;
+choose:Draw A Trigram:卦象解析.txt;

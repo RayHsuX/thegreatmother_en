@@ -1,0 +1,50 @@
+changeBg:圆满神背景.jpg -next
+:-Get divine revelation: "Superman" (God gives you the power of  completeness beyond yourself) -获得.mp3;
+:You accepted the instructions of one of the gods to become a disciple of the god and faithfully fulfill your promise.
+After receiving a reply, the god opens a secret stone door for you.;
+setFigAni:centerIn 1s -center;
+changeFigure:石门关.png;
+changeBg:黑底.png -next
+bgm:石门打开.mp3;
+setFigAni:upIn 5s -center;
+changeFigure:石门开.png;
+bgm:none;
+changeFigure:none -next;
+setFigAni:centerIn 2s -left;
+changeFigure:圆满之神.png -left -next;
+God of Consummation:“Go.Always follow me, recognize me on the other side of the door, and call my name." -圆满之神通过.mp3;
+changeFigure:none -left -next;
+:It is darkness inside the stone door. The voice of the God reassures you and leads you into the unknown tunnel.;
+changeBg:黑底.png -next
+bgm:bgmm/洞2.mp3;
+:The door closes while the voice of the God disappears. With fear in your heart, you fumble along the way forward. ;
+:Suddenly a crackling sound comes through, like the sound of joints rattling. -陈琪瑶SUITEFORBODY.mp3;
+:You wonder if you are in some hollow bone joint? -陈琪瑶SUITEFORBODY.mp3;
+:The sound comes from a far away place and draws you forward into a maze. By the time you realize it, you are already in the middle of the maze.;
+changeBg:迷宫.jpg -next
+:You have to find a way out. Fortunately, there is a faint light in the maze can let you metaphorically see some images. ;
+setBgFilter:blur(10px);
+changeBg:虚构出消失的瞬间.jpg
+:You see some patterns on the largest wall.;
+:and when you step inside, it is a mottled fresco depicting a mutilated female body.;
+setBgAni:bg_down 5s;
+setBgFilter:blur(1px);
+changeBg:虚构出消失的瞬间.jpg
+Next to the mural is a jigsaw puzzle.;
+changeBg:拼图.jpg
+:Is this the clue to find the way out? 
+You plan to complete this puzzle and see what will happen.;
+playVideo:拼图过程.mp4;
+setBgAni:shake 1s;
+changeBg:完成拼图.jpg -next
+:Mysterious forces guide you to complete the puzzle and making it through the Gaya Labyrinth!;
+setBgAni:centerIn 5s;
+changeBg:把自己交给虚无.jpg -next
+At this moment, the God of Nothingness appeared again and took on multiple images.;
+setBgAni:bg_down 3s;
+changeBg:把自己交给虚无2.jpg
+setFigAni:bg_down 3s -left;
+changeFigure:虚无神.png -left -next;
+God of Nothingness:"Mortal, you have replenished my body, and this brings you a chance. Give yourself to me, and let hardship and suffering leave you, and your life will be effortless." -虚无神二次现身.mp3;
+changeFigure:none -left -next;
+choose:Accept the call of the God of emptiness and become a believer in nihilism:结局2.txt|Refuse and escape from the cave in a hurry:神B桃林.txt;

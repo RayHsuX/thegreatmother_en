@@ -1,0 +1,7 @@
+changeBg:虚无神背景.jpg -next
+:At that moment, you come to another statue of god;
+setFigAni:leftIn 2s -left;
+changeFigure:虚无神.png -left;
+God of Nothingness:"Come, I know that there is nothing but emptiness within you, and I want nothing but for you to follow in the footsteps of nothingness and commit to not being distracted by meaning." -虚无神选项.mp3;
+changeFigure:none -left -next;
+choose:Make a commitment to admit that everything in this world is meaningless:答应双神.txt|Refuse, you want to find the meaning of life:神明A-3-1-1.txt|You need to take more time to consider: 神明A-3-1-2.txt;

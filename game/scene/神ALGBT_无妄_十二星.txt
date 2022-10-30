@@ -1,0 +1,19 @@
+changeBg:黑底.png
+:Congratulations! You got “Twelve Stars”. -获得.mp3;
+:*The jewel in the crown of the Virgin's head, representing the radiance of the twelve virtues (Meditations 12:1);
+:You have found the Gate of the Great Mother.
+Soon you will be leaving Mondo for a world that doesn't belong here.
+You will not take the memories of Mondo with you, but every choice you make will affect your life in that world.
+You have been blessed by"A thousand generations""The Unexpected misfortune""Twelve Stars"
+Are you ready for the adventure?;
+playVideo:存在于阴道里的自由.mp4;
+changeBg:粘连II.jpg -next
+:...;
+playVideo:出生.mp4;
+changeBg:婴儿出生1.png -next
+:You were born.;
+:You are a "girl". For the rest of your life, you may be torn between suffering the fate of reproduction and facing your true self, wandering through the night. But you still really want a child so badly.
+You've been confused, you've fought, but in the end you haven't beaten the constraints of social rules and the desire for the next generation.
+You keep on and on tearing your soul apart in this pain.;
+playVideo:游戏谢幕.mp4;
+end;

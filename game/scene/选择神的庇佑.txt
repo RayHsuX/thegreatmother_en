@@ -1,0 +1,5 @@
+changeBg:黑底.png -next
+You accepted the instructions of one of the gods to become a disciple of the god and faithfully fulfill your promise.
+After receiving a reply, the god opens a secret stone door for you.;
+“Go.Always follow me, recognize me on the other side of the door, and call my name.";
+It is darkness inside the stone door. The voice of the God reassures you and leads you into the unknown tunnel.;

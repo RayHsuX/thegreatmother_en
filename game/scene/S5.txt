@@ -1,0 +1,13 @@
+bgm:bgmm/塔3.mp3;
+changeBg:肉胎并蒂莲1.gif -next
+:I don't know how long it took, but a glimmer of light suddenly appeared in the chaotic darkness. 
+The crack of light grew larger and you began to struggle like a chick in an eggshell. The desire to live filled you with strength until the shell that wrapped your body fully unfolded. 
+You find that you were in a lotus flower blooming at the bottom of a well.;
+setBgAni:bg_softIn 2s;
+changeBg:古静《井胎》.gif -next
+:".... Who am I?  Where is this place?";
+:Looking around, all surfaces are smooth well walls. A drop of water falls, echoes come from all sides.  -水滴.mp3;
+setBgAni:centerIn 3s;
+changeBg:莲花1_HD.png -next
+:The place is empty except there are still many lotus buds that have not yet bloomed trembling slightly from your birth.;
+changeScene:S6.txt;
