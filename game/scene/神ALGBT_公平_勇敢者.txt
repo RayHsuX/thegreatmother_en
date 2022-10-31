@@ -4,7 +4,7 @@ changeBg:黑底.png
 :You have found the Gate of the Great Mother.
 Soon you will be leaving Mondo for a world that doesn't belong here.
 You will not take the memories of Mondo with you, but every choice you make will affect your life in that world.
-You have been blessed by"A thousand generations""Seeds - A Fair Deal?""Heart of the Brave"
+You have been blessed by"A thousand generations""Seeds_A Fair Deal?""Heart of the Brave"
 Are you ready for the adventure?;
 playVideo:存在于阴道里的自由.mp4;
 changeBg:粘连II.jpg -next

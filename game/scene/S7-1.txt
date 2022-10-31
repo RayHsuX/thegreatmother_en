@@ -13,6 +13,6 @@ Go to the floor which is flush with the earth, and they will guide you." -族谱
 setBgAni:moveBaF 2s;
 :The genealogy tree moves its branches, releases the lotus, and stops its talking.;
 :So you begin to ascend again, and the spiral passage gives the illusion that it is downward, as if you are back in the well. 
-After a long non-stop upward journey, you finally reach the ground level of the tower, which has a huge open door to the outside world.
+After a long non stop upward journey, you finally reach the ground level of the tower, which has a huge open door to the outside world.
 Outside is a world of light. You are drawn through, but there is a transparent barrier in front of the door to block your steps out.;
 changeScene:S8.txt;

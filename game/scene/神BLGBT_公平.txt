@@ -5,7 +5,7 @@ Mountain:"Take this seed and plant it in the wilderness, and feed it with your b
 setBgAni:rightIn 3s;
 changeBg:只缘身在此山中3.png -next
 The mountain ahead moves slowly, a path appears in front of you and you run out against all odds.;
-:You got "Seeds - A Fair Deal?" -获得.mp3;
+:You got "Seeds_A Fair Deal?" -获得.mp3;
 setBgAni:centerIn 3s;
 changeBg:旷野草地3.png -next
 bgm:bgmm/草地.mp3;
